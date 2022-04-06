@@ -1,6 +1,6 @@
-#Projeto Java Orientado a Objetos
+# Projeto Java Orientado a Objetos
 >Aula 01 COTI Informática POO
-##Conteúdo  das aulas de orientação a objetos em java 
+## Conteúdo  das aulas de orientação a objetos em java 
 1. JavaBeans
 2. Princio de solid 
 3. Leitura de dados utilizando classe Scanner
